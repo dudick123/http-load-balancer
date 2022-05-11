@@ -1,3 +1,7 @@
+## Docs are [here](https://testdriven.io/courses/http-load-balancer/concepts/)
+
+## The author's repo is [here](https://github.com/paktek123/myhouse-api)
+
 ## Initial Setup
 ```
 $ mkdir http-load-balancer
