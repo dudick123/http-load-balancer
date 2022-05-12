@@ -15,9 +15,14 @@ Python 3.9.0
 (env)$ pip install flask pytest
 ```
 
-## Run this to activate the Python Env
+## Run this to activate the Python Env on a Mac
 ```
 source env/bin/activate
+```
+
+## Run this to activate the Python Env on Windows
+```
+.\env\Scripts\activate
 ```
 
 ## Run this to run all tests. Those are files that start with 'test_###'
