@@ -35,4 +35,5 @@ python -m pytest
 (env) ➜  http-load-balancer python -m pytest 
 ```
 
-updates ---
+## Progress
+20220512.1 Completed to [Implementing Path-Based Routing] (https://testdriven.io/courses/http-load-balancer/routing/#H-7-implementing-path-based-routing)
